@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KRETAU
-- 👀 I’m interested in ...life
-- 🌱 I’m currently learning ...die
-- 💞️ I’m looking to collaborate on ...life
-- 📫 How to reach me ...or don't
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 KRETAU/KRETAU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
